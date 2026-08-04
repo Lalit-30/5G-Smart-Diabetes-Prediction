@@ -94,8 +94,6 @@ The prediction model uses patient attributes including:
 ├── User/
 ├── dataset/
 ├── docs/
-├── images/
-├── results/
 │
 ├── README.md
 ├── requirements.txt
